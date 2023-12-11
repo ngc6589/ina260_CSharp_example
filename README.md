@@ -1,13 +1,18 @@
-# ina260 “d—¬E“dˆ³ƒOƒ‰ƒt•\¦ƒTƒ“ƒvƒ‹(C#)
+# ina260 é›»æµãƒ»é›»åœ§ã‚°ãƒ©ãƒ•è¡¨ç¤ºã‚µãƒ³ãƒ—ãƒ«(C#)
 
 ![Alt text](materials/screenShot.png)
 
-## ŠJ”­ŠÂ‹«
+## é–‹ç™ºç’°å¢ƒ
 
-Microsoft Visual Studio Community 2022 (64 ƒrƒbƒg)
+Microsoft Visual Studio Community 2022 (64 ãƒ“ãƒƒãƒˆ)
 
-nuget ƒpƒbƒP[ƒW‚ÍˆÈ‰º2‚Â‚ğg—p‚µ‚Ä‚¢‚Ü‚·B
+nuget ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã¯ä»¥ä¸‹2ã¤ã‚’ä½¿ç”¨ã—ã¦ã„ã¾ã™ã€‚
 
 * FtdiSharp 0.0.3-alpha
 * ScottPlot.WinForms(4.1.69)
 
+## ä½¿ç”¨ä¾‹
+
+å€‹äººã® blog ã«å½“ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®è¨˜äº‹ã‚’æ²è¼‰ã—ã¾ã—ãŸã€‚
+
+https://mkusunoki.net/?p=8180
